@@ -1,6 +1,6 @@
 # Computers-VS-Blockchains
 
-- Gauging the state of the blockchain ecosystem by comparing it to the evolution of the modern computer.
+- Gauging the state of the blockchain ecosystem by comparing blockchains to the evolution of the modern computers.
 
 Don’t you wish interacting with a blockchain as easy as interacting with your computer?
 You boot up the interface, browse your favorite dapp in a clean and simple UI, aware but not worried (too much I hope) about your safety and security, where things work quickly, services are interconnected and compatible and you sometimes wonder how people lived in this world without the blockchain.
