@@ -36,7 +36,6 @@ GPU (Graphics) = the speed and quality at which the user interface loads informa
 
 RAM = a quickly available reduced version of mission critical blockchain data (Doesn’t exist yet)
 
-
 Keyboard/mouse/touchscreen = the programs that are used to interface with the blockchain
 
 Network communication = blockchain interoperability
@@ -46,6 +45,8 @@ USB = an interface to connect external modules that can interact with the blockc
 Operating system = would we in the future be able to install our own VM’s onto a Distributed
 
 Interrupt Descriptor Table = mem-pool
+
+Bios - underlaying communication stack (geth)
 
 
 Of course, we aren’t trying to run a video game off a blockchain but many blockchain projects would like a video game to be able to interact at real time to save game scores immutably and to load those scores and achievements directly in real time into the flow of the game.
