@@ -27,14 +27,24 @@ While introducing this concept, I will have to grossly over simplify the many as
 We’re still trying to piece the parts together but let’s say for now that:
 
 Hard drive speed = the speed at which you write and read to the blockchains permanent storage
+
 Hard drive capacity = the cost of storage
+
 CPU (Processor) = the speed of processing transactions
+
 GPU (Graphics) = the speed and quality at which the user interface loads information
+
 RAM = a quickly available reduced version of mission critical blockchain data (Doesn’t exist yet)
+
+
 Keyboard/mouse/touchscreen = the programs that are used to interface with the blockchain
+
 Network communication = blockchain interoperability
+
 USB = an interface to connect external modules that can interact with the blockchain (IOT devices for example, includes memory cards.
+
 Operating system = would we in the future be able to install our own VM’s onto a Distributed
+
 
 Of course, we aren’t trying to run a video game off a blockchain but many blockchain projects would like a video game to be able to interact at real time to save game scores immutably and to load those scores and achievements directly in real time into the flow of the game.
 
