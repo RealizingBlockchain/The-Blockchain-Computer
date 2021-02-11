@@ -1,6 +1,31 @@
-# Computers-VS-Blockchains
+# The-Blockchain-Computer
 
-- Gauging the state of the blockchain ecosystem by comparing blockchains to the evolution of the modern computers.
+The goal of this piece is to create a simple and standard way for anyone disscussing blockchain technologies, to easily interact about them, no matter if they are new to the technology, actively developing it, regulating it or conducting business with it. 
+
+By showing how abstracted blockchains are deeply comparable to the already familiar personal computers, we are able to use familiar language to disscuss the function and properties of any given blockchain system as well as create extensive comparisons between them which can aid in investment and business decisions, removing much of the confusiuon and creating a common language between blockchain developers and the rest of the industry.
+
+Viewing blockchains as computers enables us to easily distinguish the componenets of these complex systems and decide which are required in each disscussion. For example, it is often the case that someone, new to blockchains, asks what a blockchain is used for and instead of being told for instance, 'for decentralized transaction processing', they are told about blocks, teid by encryption, that depend on a decentralized system of nodes to process transactions through a complex mechanism that is used for reaching consensus in the system. Who hasen't been there? quite overwhelming and therefore many people don't understand what a blockchain is supposed to even do, to process pre-programmed transactions. If they were to ask why we couldn't do the same with a single computer, that would be the chance to explain the benefits of a distriobuted and decentralized computer system, their consensus and incentive mechanisms, and all of these amazing things that sit at the heart of these technologies.
+
+Usually however, to avoid misleading people, it's preferable to explain second, the performance limitations that are diffcult to overcome due to these system's distributed nature.
+
+That's where the blockchain computer comes into the picture and the best example is no other than the The Blockchain Computer that runs the Bitcoin application.
+
+Did you know that Bitcoin is not a blockcahin? Bitcoin is the first application to run on the first fully autonomous, decentralized Blockchain computer system (blockchain technology was invented much earlier).
+
+The Blockchain Computer that hosts the Bitcoin currency application:
+Performance
+Access
+Transparency
+
+Ok, Bitcoin is a decentralized system with many nodes that perform a veriaty of operations
+
+The architecture of distributed computing systems, especially decentralized blockchains, is extremely complex. However, while distrbution provides properties such as, redundancy, scalability, security, performance and other advantages, distributed systems by definition are a single computing system. 
+
+IBM definition is as follows: "A distributed computer system consists of multiple software components that are on multiple computers, but run as a single system."
+
+If you think of
+
+A comparison the state of the blockchain ecosystem by comparing blockchains to the evolution of the modern computers.
 
 Don’t you wish interacting with a blockchain as easy as interacting with your computer?
 You boot up the interface, browse your favorite dapp in a clean and simple UI, aware but not worried (too much I hope) about your safety and security, where things work quickly, services are interconnected and compatible and you sometimes wonder how people lived in this world without the blockchain.
